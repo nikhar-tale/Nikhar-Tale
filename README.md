@@ -81,7 +81,7 @@ AI-based app to scan, evaluate, and grade student worksheets.
 
 ## 📫 Let's Connect
 
-- 🌐 Portfolio: [nikhartale.github.io](https://nikhar-tale.github.io)  
+- 🌐 Portfolio: [nikhartale.github.io](https://nikhar-tale.github.io/nikhar-tale/)  
 - 💼 LinkedIn: [linkedin.com/in/nikhartale](www.linkedin.com/in/nikhar-tale-3359b41a2)  
 - 📧 Email: [nikhartale12@gmail.com](mailto:nikhartale12@gmail.com)  
 
