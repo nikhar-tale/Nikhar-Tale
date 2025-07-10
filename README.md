@@ -1,3 +1,6 @@
+<p align="left">
+  <img src="[https://your-image-link.jpg](https://drive.google.com/file/d/1Fi52eZQw1vv2MUCGWFlnhpDUfqgLJ4_A/view?usp=sharing)" alt="Nikhar Tale" width="120" style="border-radius: 50%;" />
+</p>
 # 👋 Hi, I'm Nikhar Tale!
 
 🚀 **Mobile & AI Software Engineer | 3.5+ Years Experience | Flutter | FastAPI | Clean Architecture**
