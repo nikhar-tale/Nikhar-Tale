@@ -67,8 +67,8 @@ AI-driven app to evaluate student worksheets in real-time.
 
 ## 📣 Let’s Connect
 
-- 🔗 [LinkedIn](https://linkedin.com/in/nikhartale)  
-- 🌐 [Portfolio Website](https://nikhartale.github.io)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/nikhar-tale-3359b41a2/)  
+- 🌐 [Portfolio Website](https://nikhar-tale.github.io)  
 - 📧 Email: [nikhartale12@gmail.com](mailto:nikhartale12@gmail.com)  
 <!-- Optionally add: - 📄 [Resume (PDF)](https://your-hosted-resume.com) -->
 
